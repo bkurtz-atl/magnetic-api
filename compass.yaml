@@ -14,6 +14,9 @@ labels:
   - magnetic
   - python3
 links:
+  - name: "#magnetic-api"
+    type: chat-channel
+    url: "https://atlassian.enterprise.slack.com/archives/C08U5HLLWSY"
   - name: "magnetsinc/magnetic-api"
     type: REPOSITORY
     url: "https://github.com/magnetsinc/magnetic-api"
